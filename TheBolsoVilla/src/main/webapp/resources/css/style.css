@@ -1,0 +1,10 @@
+body {
+    background-color:  #4DFBF0;
+}
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 40%;
+      margin: 0;
+      
+  }
+  
